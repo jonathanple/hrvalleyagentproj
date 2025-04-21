@@ -4,7 +4,7 @@ import time
 import re
 from datetime import datetime
 import json
-from openai import OpenAI
+import openai
 from utils.user_auth import login_required, logout_user
 from utils.pdf_processor import PDFProcessor
 from utils.db_manager import DBManager
@@ -111,11 +111,11 @@ def get_openai_client():
     if not api_key:
         st.warning("OpenAI API key not found. Chatbot functionality will be limited.")
         # Replace with your actual OpenAI API key
-        api_key = "your_openai_api_key_here"  
+        openai.api_key = api_key
     # Print the first few characters of the key being used (for debugging)
     print(f"Using API key starting with: {api_key[:8]}...")
     
-    return OpenAI(api_key=api_key)
+    return openai
 
 # Resource links database
 RESOURCE_LINKS = {
