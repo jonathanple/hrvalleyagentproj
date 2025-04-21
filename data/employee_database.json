@@ -1,0 +1,792 @@
+{
+  "EMP89545": {
+    "id": "EMP89545",
+    "name": "Matthew Harris",
+    "position": "Accountant",
+    "department": "Finance",
+    "manager": "Paul Roberts",
+    "hire_date": "2019-04-23",
+    "pto_balance": 18.7,
+    "next_review_date": "2025-04-23",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Basic Vision",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP18852": {
+    "id": "EMP18852",
+    "name": "Ashley Hill",
+    "position": "Planning Specialist",
+    "department": "Community Projects",
+    "manager": null,
+    "hire_date": "2024-02-20",
+    "pto_balance": 21.8,
+    "next_review_date": "2026-02-20",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP97360": {
+    "id": "EMP97360",
+    "name": "Joshua Young",
+    "position": "Administrative Assistant",
+    "department": "Administration",
+    "manager": null,
+    "hire_date": "2015-07-08",
+    "pto_balance": 22.6,
+    "next_review_date": "2025-07-08",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Basic Vision"
+    ]
+  },
+  "EMP21519": {
+    "id": "EMP21519",
+    "name": "Ashley Wilson",
+    "position": "IT Specialist",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2025-03-29",
+    "pto_balance": 17.2,
+    "next_review_date": "2026-03-29",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Basic Vision",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP33387": {
+    "id": "EMP33387",
+    "name": "Barbara King",
+    "position": "Project Coordinator",
+    "department": "Community Projects",
+    "manager": null,
+    "hire_date": "2021-04-14",
+    "pto_balance": 22.5,
+    "next_review_date": "2026-04-14",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Dental",
+      "401(k) - 10%"
+    ]
+  },
+  "EMP81467": {
+    "id": "EMP81467",
+    "name": "Michael Gonzalez",
+    "position": "Maintenance Worker",
+    "department": "Watershed Operations",
+    "manager": "Joshua Rodriguez",
+    "hire_date": "2015-04-05",
+    "pto_balance": 7.2,
+    "next_review_date": "2026-04-05",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Basic Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP37857": {
+    "id": "EMP37857",
+    "name": "Christopher Martinez",
+    "position": "Engineering Manager",
+    "department": "Engineering",
+    "manager": null,
+    "hire_date": "2021-10-19",
+    "pto_balance": 23.8,
+    "next_review_date": "2025-10-19",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Dental",
+      "Premium Vision",
+      "401(k) - 7%"
+    ]
+  },
+  "EMP48498": {
+    "id": "EMP48498",
+    "name": "Richard Mitchell",
+    "position": "System Administrator",
+    "department": "Human Resources",
+    "manager": null,
+    "hire_date": "2021-11-19",
+    "pto_balance": 24.2,
+    "next_review_date": "2025-11-19",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Dental",
+      "Premium Vision",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP66670": {
+    "id": "EMP66670",
+    "name": "Christopher Clark",
+    "position": "Civil Engineer",
+    "department": "Engineering",
+    "manager": "Christopher Martinez",
+    "hire_date": "2014-04-27",
+    "pto_balance": 24.3,
+    "next_review_date": "2025-04-27",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Basic Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP20385": {
+    "id": "EMP20385",
+    "name": "Nancy Anderson",
+    "position": "Community Liaison",
+    "department": "Community Projects",
+    "manager": null,
+    "hire_date": "2011-06-07",
+    "pto_balance": 3.7,
+    "next_review_date": "2025-06-07",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Basic Vision",
+      "401(k) - 3%"
+    ]
+  },
+  "EMP56439": {
+    "id": "EMP56439",
+    "name": "Steven Nelson",
+    "position": "Water Quality Specialist",
+    "department": "Water Supply",
+    "manager": "Susan Young",
+    "hire_date": "2013-06-12",
+    "pto_balance": 13.9,
+    "next_review_date": "2025-06-12",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP72309": {
+    "id": "EMP72309",
+    "name": "Kenneth Williams",
+    "position": "System Administrator",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2019-08-29",
+    "pto_balance": 4.7,
+    "next_review_date": "2025-08-29",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Dental",
+      "Premium Vision"
+    ]
+  },
+  "EMP72435": {
+    "id": "EMP72435",
+    "name": "Sarah Walker",
+    "position": "Records Specialist",
+    "department": "Administration",
+    "manager": null,
+    "hire_date": "2020-04-06",
+    "pto_balance": 16.8,
+    "next_review_date": "2026-04-06",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 4%"
+    ]
+  },
+  "EMP54094": {
+    "id": "EMP54094",
+    "name": "Betty Lee",
+    "position": "Employee Relations Manager",
+    "department": "Human Resources",
+    "manager": "Emily Hill",
+    "hire_date": "2012-09-22",
+    "pto_balance": 24.9,
+    "next_review_date": "2025-09-22",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 9%"
+    ]
+  },
+  "EMP97263": {
+    "id": "EMP97263",
+    "name": "George Campbell",
+    "position": "Water Resources Engineer",
+    "department": "Engineering",
+    "manager": "Christopher Martinez",
+    "hire_date": "2022-05-27",
+    "pto_balance": 15.8,
+    "next_review_date": "2025-05-27",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "401(k) - 3%"
+    ]
+  },
+  "EMP48212": {
+    "id": "EMP48212",
+    "name": "David Harris",
+    "position": "Legal Counsel",
+    "department": "Legal",
+    "manager": null,
+    "hire_date": "2021-01-23",
+    "pto_balance": 8.0,
+    "next_review_date": "2026-01-23",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Basic Vision"
+    ]
+  },
+  "EMP47239": {
+    "id": "EMP47239",
+    "name": "Joshua Turner",
+    "position": "Flood Control Specialist",
+    "department": "Watershed Operations",
+    "manager": "Betty Davis",
+    "hire_date": "2016-04-13",
+    "pto_balance": 2.2,
+    "next_review_date": "2026-04-13",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 10%"
+    ]
+  },
+  "EMP78615": {
+    "id": "EMP78615",
+    "name": "Kenneth Hall",
+    "position": "Environmental Scientist",
+    "department": "Environmental Services",
+    "manager": null,
+    "hire_date": "2010-10-04",
+    "pto_balance": 10.5,
+    "next_review_date": "2025-10-04",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP35383": {
+    "id": "EMP35383",
+    "name": "Kimberly Campbell",
+    "position": "System Operator",
+    "department": "Water Supply",
+    "manager": "Susan Young",
+    "hire_date": "2015-03-07",
+    "pto_balance": 4.2,
+    "next_review_date": "2026-03-07",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Basic Dental",
+      "Basic Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP37750": {
+    "id": "EMP37750",
+    "name": "Emily Hill",
+    "position": "Employee Relations Manager",
+    "department": "Human Resources",
+    "manager": "Melissa Harris",
+    "hire_date": "2010-11-27",
+    "pto_balance": 4.1,
+    "next_review_date": "2025-11-27",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP59960": {
+    "id": "EMP59960",
+    "name": "Amanda Brown",
+    "position": "Engineering Technician",
+    "department": "Engineering",
+    "manager": "Christopher Martinez",
+    "hire_date": "2021-04-07",
+    "pto_balance": 7.6,
+    "next_review_date": "2026-04-07",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 4%"
+    ]
+  },
+  "EMP24066": {
+    "id": "EMP24066",
+    "name": "Donna Adams",
+    "position": "Legal Assistant",
+    "department": "Legal",
+    "manager": null,
+    "hire_date": "2019-07-22",
+    "pto_balance": 0.4,
+    "next_review_date": "2025-07-22",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Basic Dental",
+      "Premium Vision",
+      "401(k) - 7%"
+    ]
+  },
+  "EMP13739": {
+    "id": "EMP13739",
+    "name": "Dorothy Hill",
+    "position": "Water Resources Engineer",
+    "department": "Engineering",
+    "manager": "Christopher Martinez",
+    "hire_date": "2011-04-05",
+    "pto_balance": 19.1,
+    "next_review_date": "2026-04-05",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "401(k) - 9%"
+    ]
+  },
+  "EMP15492": {
+    "id": "EMP15492",
+    "name": "Christopher Taylor",
+    "position": "Civil Engineer",
+    "department": "Engineering",
+    "manager": "Christopher Martinez",
+    "hire_date": "2017-01-04",
+    "pto_balance": 2.1,
+    "next_review_date": "2026-01-04",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Dental",
+      "Premium Vision",
+      "401(k) - 9%"
+    ]
+  },
+  "EMP52486": {
+    "id": "EMP52486",
+    "name": "Melissa Harris",
+    "position": "Employee Relations Manager",
+    "department": "Human Resources",
+    "manager": "Betty Lee",
+    "hire_date": "2013-08-12",
+    "pto_balance": 21.9,
+    "next_review_date": "2025-08-12",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Basic Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP97064": {
+    "id": "EMP97064",
+    "name": "Lisa Hill",
+    "position": "Legal Counsel",
+    "department": "Legal",
+    "manager": null,
+    "hire_date": "2017-05-02",
+    "pto_balance": 15.6,
+    "next_review_date": "2025-05-02",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Basic Vision",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP95196": {
+    "id": "EMP95196",
+    "name": "Ashley Williams",
+    "position": "Biologist",
+    "department": "Environmental Services",
+    "manager": null,
+    "hire_date": "2014-12-29",
+    "pto_balance": 20.3,
+    "next_review_date": "2025-12-29",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP35958": {
+    "id": "EMP35958",
+    "name": "William Wright",
+    "position": "Biologist",
+    "department": "Environmental Services",
+    "manager": null,
+    "hire_date": "2018-09-01",
+    "pto_balance": 11.8,
+    "next_review_date": "2025-09-01",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Dental",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP69300": {
+    "id": "EMP69300",
+    "name": "Matthew Jones",
+    "position": "Civil Engineer",
+    "department": "Engineering",
+    "manager": "Christopher Martinez",
+    "hire_date": "2018-03-04",
+    "pto_balance": 1.5,
+    "next_review_date": "2026-03-04",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Basic Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP76534": {
+    "id": "EMP76534",
+    "name": "Anthony Rodriguez",
+    "position": "Security Specialist",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2012-02-21",
+    "pto_balance": 6.4,
+    "next_review_date": "2026-02-21",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 6%"
+    ]
+  },
+  "EMP37286": {
+    "id": "EMP37286",
+    "name": "Thomas Garcia",
+    "position": "Structural Engineer",
+    "department": "Dam Safety",
+    "manager": null,
+    "hire_date": "2015-09-10",
+    "pto_balance": 4.3,
+    "next_review_date": "2025-09-10",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Basic Dental",
+      "Basic Vision"
+    ]
+  },
+  "EMP27435": {
+    "id": "EMP27435",
+    "name": "Donna Robinson",
+    "position": "Resource Planner",
+    "department": "Environmental Services",
+    "manager": null,
+    "hire_date": "2014-02-07",
+    "pto_balance": 12.6,
+    "next_review_date": "2026-02-07",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental"
+    ]
+  },
+  "EMP72067": {
+    "id": "EMP72067",
+    "name": "Paul Roberts",
+    "position": "Budget Manager",
+    "department": "Finance",
+    "manager": null,
+    "hire_date": "2022-12-06",
+    "pto_balance": 12.0,
+    "next_review_date": "2025-12-06",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 4%"
+    ]
+  },
+  "EMP94992": {
+    "id": "EMP94992",
+    "name": "Dorothy Gonzalez",
+    "position": "Flood Control Specialist",
+    "department": "Watershed Operations",
+    "manager": "Betty Davis",
+    "hire_date": "2012-04-01",
+    "pto_balance": 9.1,
+    "next_review_date": "2026-04-01",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "401(k) - 7%"
+    ]
+  },
+  "EMP29428": {
+    "id": "EMP29428",
+    "name": "Mark Perez",
+    "position": "Risk Assessment Specialist",
+    "department": "Dam Safety",
+    "manager": null,
+    "hire_date": "2014-06-29",
+    "pto_balance": 16.7,
+    "next_review_date": "2025-06-29",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Basic Vision"
+    ]
+  },
+  "EMP30557": {
+    "id": "EMP30557",
+    "name": "Betty Davis",
+    "position": "Watershed Manager",
+    "department": "Watershed Operations",
+    "manager": "Joshua Rodriguez",
+    "hire_date": "2014-05-02",
+    "pto_balance": 17.0,
+    "next_review_date": "2025-05-02",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Vision",
+      "401(k) - 3%"
+    ]
+  },
+  "EMP42220": {
+    "id": "EMP42220",
+    "name": "Betty Green",
+    "position": "Outreach Coordinator",
+    "department": "Communications",
+    "manager": null,
+    "hire_date": "2018-11-07",
+    "pto_balance": 18.9,
+    "next_review_date": "2025-11-07",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Dental",
+      "Premium Vision"
+    ]
+  },
+  "EMP68976": {
+    "id": "EMP68976",
+    "name": "Karen Robinson",
+    "position": "Field Technician",
+    "department": "Water Supply",
+    "manager": "Susan Young",
+    "hire_date": "2023-08-08",
+    "pto_balance": 12.1,
+    "next_review_date": "2025-08-08",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "401(k) - 3%"
+    ]
+  },
+  "EMP44774": {
+    "id": "EMP44774",
+    "name": "Donna Rodriguez",
+    "position": "Procurement Officer",
+    "department": "Finance",
+    "manager": "Paul Roberts",
+    "hire_date": "2016-02-07",
+    "pto_balance": 18.5,
+    "next_review_date": "2026-02-07",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Dental",
+      "Basic Vision",
+      "401(k) - 10%"
+    ]
+  },
+  "EMP85877": {
+    "id": "EMP85877",
+    "name": "Melissa Clark",
+    "position": "Administrative Assistant",
+    "department": "Administration",
+    "manager": null,
+    "hire_date": "2021-06-17",
+    "pto_balance": 20.4,
+    "next_review_date": "2025-06-17",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Vision",
+      "401(k) - 10%"
+    ]
+  },
+  "EMP63297": {
+    "id": "EMP63297",
+    "name": "Donna Thomas",
+    "position": "Benefits Coordinator",
+    "department": "Human Resources",
+    "manager": "Betty Lee",
+    "hire_date": "2021-08-01",
+    "pto_balance": 12.2,
+    "next_review_date": "2025-08-01",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Dental",
+      "401(k) - 10%"
+    ]
+  },
+  "EMP14841": {
+    "id": "EMP14841",
+    "name": "Susan Young",
+    "position": "Operations Manager",
+    "department": "Water Supply",
+    "manager": null,
+    "hire_date": "2015-05-14",
+    "pto_balance": 3.9,
+    "next_review_date": "2025-05-14",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Basic Vision"
+    ]
+  },
+  "EMP66668": {
+    "id": "EMP66668",
+    "name": "Susan Thompson",
+    "position": "Project Coordinator",
+    "department": "Community Projects",
+    "manager": null,
+    "hire_date": "2011-07-04",
+    "pto_balance": 8.6,
+    "next_review_date": "2025-07-04",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "401(k) - 3%"
+    ]
+  },
+  "EMP65146": {
+    "id": "EMP65146",
+    "name": "Jennifer White",
+    "position": "Financial Analyst",
+    "department": "Finance",
+    "manager": "Paul Roberts",
+    "hire_date": "2014-01-30",
+    "pto_balance": 8.1,
+    "next_review_date": "2026-01-30",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Dental",
+      "Basic Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP59845": {
+    "id": "EMP59845",
+    "name": "Joshua Rodriguez",
+    "position": "Field Supervisor",
+    "department": "Watershed Operations",
+    "manager": "Michael Gonzalez",
+    "hire_date": "2014-08-25",
+    "pto_balance": 12.9,
+    "next_review_date": "2025-08-25",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 9%"
+    ]
+  },
+  "EMP78607": {
+    "id": "EMP78607",
+    "name": "Donald Hernandez",
+    "position": "Accountant",
+    "department": "Finance",
+    "manager": "Paul Roberts",
+    "hire_date": "2010-11-23",
+    "pto_balance": 20.0,
+    "next_review_date": "2025-11-23",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Dental",
+      "Basic Vision",
+      "401(k) - 8%"
+    ]
+  },
+  "EMP73466": {
+    "id": "EMP73466",
+    "name": "Michael Gonzalez",
+    "position": "Watershed Manager",
+    "department": "Watershed Operations",
+    "manager": "Joshua Rodriguez",
+    "hire_date": "2011-08-13",
+    "pto_balance": 10.3,
+    "next_review_date": "2025-08-13",
+    "enrolled_benefits": [
+      "Standard Health Plan",
+      "Premium Dental",
+      "Premium Vision"
+    ]
+  },
+  "EMP43247": {
+    "id": "EMP43247",
+    "name": "Thomas Gonzalez",
+    "position": "Payroll Specialist",
+    "department": "Finance",
+    "manager": "Paul Roberts",
+    "hire_date": "2016-01-25",
+    "pto_balance": 4.8,
+    "next_review_date": "2026-01-25",
+    "enrolled_benefits": [
+      "Basic Health Plan",
+      "Basic Dental",
+      "Basic Vision",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP88663": {
+    "id": "EMP88663",
+    "name": "John Williams",
+    "position": "Paralegal",
+    "department": "Legal",
+    "manager": null,
+    "hire_date": "2014-01-03",
+    "pto_balance": 2.3,
+    "next_review_date": "2026-01-03",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Dental",
+      "Premium Vision",
+      "401(k) - 5%"
+    ]
+  },
+  "EMP14637": {
+    "id": "EMP14637",
+    "name": "Susan Hill",
+    "position": "Public Affairs Representative",
+    "department": "Communications",
+    "manager": null,
+    "hire_date": "2013-12-31",
+    "pto_balance": 9.3,
+    "next_review_date": "2025-12-31",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Basic Dental",
+      "401(k) - 3%"
+    ]
+  },
+  "test": {
+    "id": "test",
+    "name": "Test User",
+    "position": "System Administrator",
+    "department": "Information Technology",
+    "manager": null,
+    "hire_date": "2020-01-01",
+    "pto_balance": 15.0,
+    "next_review_date": "2025-01-01",
+    "enrolled_benefits": [
+      "Premium Health Plan",
+      "Premium Dental",
+      "Premium Vision",
+      "401(k) - 10%"
+    ]
+  }
+}
