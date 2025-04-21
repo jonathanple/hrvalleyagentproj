@@ -240,7 +240,7 @@ def classify_topic(question, answer):
     """
     
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that classifies HR conversations."},
@@ -270,7 +270,7 @@ def generate_summary(question, answer):
     """
     
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that summarizes conversations concisely."},
@@ -305,7 +305,7 @@ def find_semantic_matches(question, pdf_content):
     """
     
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo-16k",  # Using larger context model for search
             messages=[{"role": "user", "content": search_prompt}],
             temperature=0.3,
@@ -392,7 +392,7 @@ Important guidelines:
     
     try:
         # Step 3: Get main response from OpenAI
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4",  # Using most capable model for best responses
             messages=messages,
             temperature=0.7,  # Higher temperature for more conversational tone
@@ -422,7 +422,7 @@ Important guidelines:
         Each question should be a single sentence ending with a question mark.
         """
         
-        suggestion_response = client.chat.completions.create(
+        suggestion_response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": suggestion_prompt}],
             temperature=0.7,
