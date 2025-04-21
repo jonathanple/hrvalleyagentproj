@@ -1,0 +1,41 @@
+{
+  "report_date": "2025-04-16",
+  "date_range": "Last 30 days",
+  "statistics": {
+    "total_conversations": 8,
+    "unique_employees": 1,
+    "conversations_last_7_days": 8,
+    "avg_answer_length": 939.0
+  },
+  "trends": [
+    {
+      "day": "2025-04-15",
+      "count": 6
+    },
+    {
+      "day": "2025-04-16",
+      "count": 2
+    }
+  ],
+  "top_employees": [
+    {
+      "employee_id": "EMP21519",
+      "employee_name": "Ashley Wilson",
+      "count": 8
+    }
+  ],
+  "top_topics": [
+    {
+      "name": "Category: Benefits",
+      "count": 5
+    },
+    {
+      "name": "Category: Time Off",
+      "count": 2
+    },
+    {
+      "name": "Category: Policies",
+      "count": 1
+    }
+  ]
+}
